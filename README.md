@@ -6,13 +6,13 @@ Please, read **the entire document** before proceeding because it includes two d
 [TOC]
 
 ## Laptop model
-The installation has been done on a [Mountain Onyx](https://www.mountain.es/portatiles/onyx) laptop.
+The installation has been done on a [Lenovo ThinkPad T440s] laptop.
 
-- **Screen**: 15,6" Full HD IPS Mate
-- **CPU**: Intel® Core™ i7 6700HQ - 4C/8T
-- **RAM**: 8GB DDR3L 1600 SODIMM
-- **Hard Disk**: SSD 240GB M.2 550MB/s
-- **GPU**: Nvidia GTX 960M 2GB GDDR5 + Intel i915 (Skylake)
+- **Screen**: 14,0" Full HD IPS TouchScreen
+- **CPU**: Intel® Core™ i7 4600U - 2C/4T
+- **RAM**: 12GB DDR3L 1600 SODIMM
+- **Hard Disk**: SSD 120GB 2.5" 550MB/s
+- **GPU**: Intel i915 (Haswell)
 - **UEFI**
 
 ## Approach 1 [UEFI, GPT and GRUB]
